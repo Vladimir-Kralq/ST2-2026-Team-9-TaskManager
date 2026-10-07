@@ -1,5 +1,5 @@
-from database import Database
-from task import Task
+from Database.database import Database1
+from Models.task import Task
 
 
 db = Database()
