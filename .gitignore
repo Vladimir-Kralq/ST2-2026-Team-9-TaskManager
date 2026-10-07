@@ -1,0 +1,6 @@
+.idea/
+.venv/
+pycache/
+*.pyc
+student_planner.db
+.env
